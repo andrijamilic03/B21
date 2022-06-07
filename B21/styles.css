@@ -1,0 +1,60 @@
+body{
+	margin:auto;
+	width:1100px;
+	border:2px solid grey;
+}
+.zaglavlje{
+	background-color:#28289d;
+	display:flex;
+	border-bottom:2px solid grey;
+}
+.tekst1{
+	color:white;
+	margin-left:20px;
+	margin-right:20px;
+	
+}
+.tekst2{
+	color:white;
+	margin-left:20px;
+}
+.linija{
+	border-right: 2px solid grey;
+ }
+ .naslov{
+	 text-align:center;
+ }
+ table, th, td {
+  border: 1px solid black;
+  margin:auto;
+}
+th{
+	background-color:grey;
+}
+.futer{
+	display:flex;
+	background-color:#28289d;
+	margin-top:20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #28289d;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+.prosiri{
+	width:900px;
+}
